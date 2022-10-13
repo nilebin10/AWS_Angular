@@ -32,6 +32,8 @@ Follow the steps:
 
 Link for Shopping App:
 
-S3 Bucket: https://shop-v1-angular-cloudfront.s3.amazonaws.com/
+- **S3 Bucket**: https://shop-v1-angular-cloudfront.s3.amazonaws.com/
 
-CloudFront Url: https://d22dhj4rkr1va3.cloudfront.net
+- **CloudFront Url**: https://d22dhj4rkr1va3.cloudfront.net
+
+- **Integrated API endpoint**: https://acllyrsnj5.execute-api.us-east-1.amazonaws.com/dev/
